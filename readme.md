@@ -17,4 +17,8 @@ npm run dev
 cd fontend
 npm run dev
 ```
-
+### .env template
+```dotenv
+GROQ_API_KEY= # your api key
+PORT= # backend server port (optional)
+```
